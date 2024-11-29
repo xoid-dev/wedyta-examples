@@ -1,0 +1,5 @@
+{
+  "pageTitle": "Users demo page",
+  "dbTable": "user",
+  "fields": [ "id", "name" ]
+}
